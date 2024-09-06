@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/porto/static/css/main.7025e6ce.css",
+    "main.js": "/porto/static/js/main.f5efe82f.js",
+    "static/media/aboutprofile.jpg": "/porto/static/media/aboutprofile.56c62c809b441f281415.jpg",
+    "static/media/user3.png": "/porto/static/media/user3.d4fbc84eb3613fc1c756.png",
+    "static/media/CurriculumVitae.pdf": "/porto/static/media/CurriculumVitae.76b1bc713c69f5365934.pdf",
+    "static/media/user1.jpg": "/porto/static/media/user1.5139294cce7175800636.jpg",
+    "static/media/profile.jpg": "/porto/static/media/profile.8c87fbe41cd0ffb0ee6c.jpg",
+    "static/media/user7.jpg": "/porto/static/media/user7.5aa8512a27fbb15abb5e.jpg",
+    "static/media/user4.jpg": "/porto/static/media/user4.e58b550969e8d14531b9.jpg",
+    "static/media/user6.jpg": "/porto/static/media/user6.012728dfcb9dd95dc7da.jpg",
+    "static/media/user2.jpg": "/porto/static/media/user2.debd864b2ef8cdc95b7d.jpg",
+    "static/media/user5.jpg": "/porto/static/media/user5.b9c2d1f4ffd30579b313.jpg",
+    "index.html": "/porto/index.html",
+    "main.7025e6ce.css.map": "/porto/static/css/main.7025e6ce.css.map",
+    "main.f5efe82f.js.map": "/porto/static/js/main.f5efe82f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7025e6ce.css",
+    "static/js/main.f5efe82f.js"
+  ]
+}
